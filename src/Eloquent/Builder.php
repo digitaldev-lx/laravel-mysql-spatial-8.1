@@ -1,8 +1,8 @@
 <?php
 
-namespace Grimzy\LaravelMysqlSpatial\Eloquent;
+namespace DigitalDevLX\LaravelMySqlSpatial\Eloquent;
 
-use Grimzy\LaravelMysqlSpatial\Types\GeometryInterface;
+use DigitalDevLX\LaravelMySqlSpatial\Types\GeometryInterface;
 use Illuminate\Database\Eloquent\Builder as EloquentBuilder;
 
 class Builder extends EloquentBuilder

@@ -1,6 +1,6 @@
 <?php
 
-namespace Grimzy\LaravelMysqlSpatial\Eloquent;
+namespace DigitalDevLX\LaravelMySqlSpatial\Eloquent;
 
 use Illuminate\Database\Query\Builder as QueryBuilder;
 

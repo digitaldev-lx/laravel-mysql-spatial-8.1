@@ -1,8 +1,8 @@
 <?php
 
-use Grimzy\LaravelMysqlSpatial\MysqlConnection;
-use Grimzy\LaravelMysqlSpatial\Schema\Blueprint;
-use Grimzy\LaravelMysqlSpatial\Schema\Grammars\MySqlGrammar;
+use DigitalDevLX\LaravelMySqlSpatial\MysqlConnection;
+use DigitalDevLX\LaravelMySqlSpatial\Schema\Blueprint;
+use DigitalDevLX\LaravelMySqlSpatial\Schema\Grammars\MySqlGrammar;
 
 class MySqlGrammarBaseTest extends BaseTestCase
 {

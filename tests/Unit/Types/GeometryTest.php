@@ -1,14 +1,14 @@
 <?php
 
-use Grimzy\LaravelMysqlSpatial\Exceptions\UnknownWKTTypeException;
-use Grimzy\LaravelMysqlSpatial\Types\Geometry;
-use Grimzy\LaravelMysqlSpatial\Types\GeometryCollection;
-use Grimzy\LaravelMysqlSpatial\Types\LineString;
-use Grimzy\LaravelMysqlSpatial\Types\MultiLineString;
-use Grimzy\LaravelMysqlSpatial\Types\MultiPoint;
-use Grimzy\LaravelMysqlSpatial\Types\MultiPolygon;
-use Grimzy\LaravelMysqlSpatial\Types\Point;
-use Grimzy\LaravelMysqlSpatial\Types\Polygon;
+use DigitalDevLX\LaravelMySqlSpatial\Exceptions\UnknownWKTTypeException;
+use DigitalDevLX\LaravelMySqlSpatial\Types\Geometry;
+use DigitalDevLX\LaravelMySqlSpatial\Types\GeometryCollection;
+use DigitalDevLX\LaravelMySqlSpatial\Types\LineString;
+use DigitalDevLX\LaravelMySqlSpatial\Types\MultiLineString;
+use DigitalDevLX\LaravelMySqlSpatial\Types\MultiPoint;
+use DigitalDevLX\LaravelMySqlSpatial\Types\MultiPolygon;
+use DigitalDevLX\LaravelMySqlSpatial\Types\Point;
+use DigitalDevLX\LaravelMySqlSpatial\Types\Polygon;
 
 class GeometryTest extends BaseTestCase
 {

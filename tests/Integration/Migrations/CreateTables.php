@@ -1,6 +1,6 @@
 <?php
 
-use Grimzy\LaravelMysqlSpatial\Schema\Blueprint;
+use DigitalDevLX\LaravelMySqlSpatial\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Support\Facades\Schema;
 

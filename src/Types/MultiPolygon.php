@@ -1,10 +1,10 @@
 <?php
 
-namespace Grimzy\LaravelMysqlSpatial\Types;
+namespace DigitalDevLX\LaravelMySqlSpatial\Types;
 
 use GeoJson\GeoJson;
 use GeoJson\Geometry\MultiPolygon as GeoJsonMultiPolygon;
-use Grimzy\LaravelMysqlSpatial\Exceptions\InvalidGeoJsonException;
+use DigitalDevLX\LaravelMySqlSpatial\Exceptions\InvalidGeoJsonException;
 
 class MultiPolygon extends GeometryCollection
 {
