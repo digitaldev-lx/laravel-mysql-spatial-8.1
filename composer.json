@@ -40,9 +40,6 @@
         ]
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "4.0.x-dev"
-        },
         "laravel": {
             "providers": [
                 "DigitalDevLX\\LaravelMysqlSpatial\\SpatialServiceProvider"
